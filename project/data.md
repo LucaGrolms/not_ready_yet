@@ -12,6 +12,7 @@ Please provide information concerning the dataset you utilized, as well as it's 
   * The data that was used is data from a resting state fMRI study from a group of 51 healthy participants and a group of 21 patients with mild depression. Anatomical and functional scans were obtained. A session consists of 100 dynamic scans with TR = 2.5 s and 25 slices. 
 
 * What kind of data was generated within the project?
+They generated fMRI data in nifti format
 
 * How was the data organized?
   * The data is separated into individual data folders for each participant where anatomical as well as functional scans are stored.  
